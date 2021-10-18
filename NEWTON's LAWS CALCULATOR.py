@@ -1,4 +1,4 @@
-print("Hello,User please tell us your so that we can know you better!")
+print("Hello User! please tell us your so that we can know you better!")
 name = input("Tell us your name: ")
 print(f"Hello, {name} nice to meet you welcome Newton's laws of motion")
 print("Tell us waht do you want.Type find in front of your value that you want to ask! and 'quit' to exit.")
